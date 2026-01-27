@@ -11,7 +11,7 @@
 <p style="font-size:7px;">
 Just a curious mind who loves building stuff and solving problems
 </p>
-<p>Fun fact : arch, neovim, learning japanese </p>
+<p>Fun fact : arch, nvim, learning japanese </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
