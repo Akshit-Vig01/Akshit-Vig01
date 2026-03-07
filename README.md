@@ -3,9 +3,11 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=00EDF7FF&width=535&lines=Hi%2C+I'm+Akshit%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
+
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/AkshitVig4)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshit-vig-a56377303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=)
-![border-seperator](assets/borderseparator.gif) 
+![](https://komarev.com/ghpvc/?username=akshitvigg&label=visitors)
+![border-seperator](assets/borderseparator.gif)	
 
 ## About Akshit
 <p style="font-size:7px;">
